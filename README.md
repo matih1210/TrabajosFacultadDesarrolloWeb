@@ -13,6 +13,8 @@ Este repositorio contiene todos los trabajos prácticos y proyectos desarrollado
 | `mati1210HTML-CSSyJS`           | Prácticas integrando HTML, CSS y JavaScript.   |
 | `mati1210ApiRest` / `ApiRest2`  | Proyectos de APIs REST en Java.                |
 | `vercelmati1210`                | Proyecto desplegado con Vercel.                |
+| `mati1210`                      | Ejercicios usando HTML                         |  
+| `matih1210JS`                   | Ejercicios usando js                           |  
 | `3k9tarde`                      | api demo en spring basica                      |  
 
 ## Cómo clonar este repositorio
